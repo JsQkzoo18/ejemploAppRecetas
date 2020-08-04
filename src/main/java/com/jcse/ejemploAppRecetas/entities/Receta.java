@@ -20,8 +20,6 @@ public class Receta {
     
     private UUID foto;
 
- 
-
     private String preparacion;
     
     private String dificultad;
